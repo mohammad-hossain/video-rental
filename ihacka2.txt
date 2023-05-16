@@ -1,0 +1,56 @@
+what AI could do for Scrum ceremonies and Agile? 
+
+With the rise of AI and machine learning technologies, there's a lot of potential for these tools to enhance Scrum ceremonies by providing data-driven insights and predictive analytics.
+
+For example, AI could help teams identify patterns in their workflow and suggest improvements to the process. It could also help with forecasting and resource allocation, enabling teams to make better decisions and deliver higher-quality products.
+
+
+
+AI, or artificial intelligence, can be used in Agile software development to improve the speed and efficiency of the development process, increase the accuracy and reliability of testing and quality assurance, and help teams make data-driven decisions.
+
+Here are some specific ways AI can be used in Agile software development:
+
+    Automated testing: One of the most time-consuming aspects of software development is testing. AI-powered testing tools can help automate this process, allowing developers to quickly identify bugs and other issues before they become larger problems.
+    Predictive analytics: AI can analyze past project data to predict future outcomes and trends, allowing teams to make data-driven decisions about project timelines, resource allocation, and more.
+    Natural language processing: AI-powered chatbots and virtual assistants can help facilitate communication between team members, allowing them to quickly resolve issues and collaborate more effectively.
+    Continuous integration and deployment: AI can be used to optimize the continuous integration and deployment (CI/CD) process, automatically testing and deploying code changes as they are made.
+    Task automation: AI can automate many repetitive tasks, such as code reviews and bug triage, allowing developers to focus on more high-level tasks and improve their productivity.
+
+By integrating AI into Agile software development, teams can improve their speed, efficiency, and quality, allowing them to deliver better software more quickly and with fewer errors.
+
+Overall, I think with GPT4 we will see more and more meaningful use cases. What AI will do is it will make us a lot more efficient as product managers and engineers. It won't replace us. It makes us more productive. 
+
+
+But with AI, if we know the right questions to ask, we can potentially understand the fuzzy problems, and someone can build fuzzy expert systems to turn a 1-year experience PM into a 20-year experience decision maker. Not in every field, but in niche fields at first, which eventually becomes all fields 
+
+
+In the retro ceremony for example, a model could provide recommedations based on the Sprint data without having the SM to go through the data and analyze why there where a lot of uncompleted SP or analyse the burndown chart of the Stories SPs. Not sure if this software exists nowadays... 
+
+
+
+
+I’d say closer to the way we work in 2030 will look very different from how we worked in 2022 but I’m looking forward to reading the responses! The advancements made since it was released in November until today have been moving at light speed. I'd give it 3 to 5 years to see dramatic changes. I've never seen technology move so fast. 
+
+
+
+I’m an ex-PM now entrepreneur working on this very scenario. We can pull data out of docs and other text at scale now. We can have it read every bit of content your org possesses. We can also orchestrate across multiple source systems and aggregate that data in near real time. Once you have this data in a usable format, you can use an LLM like GPT4 to consume and analyze it. You can also query and visualize with tools like Power BI. 
+
+
+
+
+
+
+
+
+
+
+
+Disadvantages:
+I think that AI powered insights on e.g. team velocity are quite far away, since an ML model would have to be trained on a particular work environment, team composition, team dynamics, etc, to properly be able to "suggest" improvements. I can see the ROI on this just not being worthwhile.
+
+
+My main issue with AI summarizing things such as discussion points from a retrospective is just like reading a summary of a book, written by someone else than the author. You will miss out on most of the actual meaning when AI does the analysis for you… 
+
+AI is another tool that still depends on the skill of the user to wield effectively.
+
+The entire way project management is done would have to change. I have an Entrepreneur project along these lines which would fundamentally change PM and make these kinds of things possible with AI. Key issues are that activities are not collected in enough detail and hours are measured by developers entering them, which is unreliable and inaccurate. Blockers to processes are not documented well. Those all have to change before AI can be useful. 
